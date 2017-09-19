@@ -19,7 +19,7 @@ const (
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://54.202.27.195:9200"
+	ES_URL = "http://34.214.122.46:9200"
 )
 
 type Location struct {
@@ -64,7 +64,7 @@ func handlerPost(w http.ResponseWriter, r *http.Request) {
 		panic(err)
 	}
 
-	fmt.Fprintf(w, "Post received: %s\n", p.Message)
+	// fmt.Fprintf(w, "Post received: %s\n", p.Message)
 
 }
 
@@ -79,7 +79,7 @@ func handlerSearch(w http.ResponseWriter, r *http.Request) {
 	if val := r.URL.Query().Get("range"); val != "" {
 		ran = val + "km"
 	}
-	fmt.Printf("Search received: %f %f %s", lat, lon, ran)
+	// fmt.Printf("Search received: %f %f %s", lat, lon, ran)
 
 	// Create a client
 	client, err := elastic.NewClient(elastic.SetURL(ES_URL), elastic.SetSniff(false))
