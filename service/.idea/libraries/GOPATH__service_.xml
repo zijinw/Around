@@ -20,6 +20,7 @@
       <root url="file://C:/Go/src/math" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/errors" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
       <root url="file://C:/Go/src/hash" />
       <root url="file://C:/Go/src/bufio" />
       <root url="file://C:/Go/src/internal" />
@@ -69,6 +70,7 @@
       <root url="file://C:/Go/src/math" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/errors" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
       <root url="file://C:/Go/src/hash" />
       <root url="file://C:/Go/src/bufio" />
       <root url="file://C:/Go/src/internal" />
