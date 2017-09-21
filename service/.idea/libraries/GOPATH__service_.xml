@@ -2,7 +2,6 @@
   <library name="GOPATH &lt;service&gt;">
     <CLASSES>
       <root url="file://C:/Go/src/image" />
-      <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://C:/Go/src/text" />
       <root url="file://C:/Go/src/net" />
       <root url="file://C:/Go/src/io" />
@@ -14,13 +13,11 @@
       <root url="file://C:/Go/src/archive" />
       <root url="file://C:/Go/src/crypto" />
       <root url="file://C:/Go/src/sync" />
-      <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://C:/Go/src/strconv" />
       <root url="file://C:/Go/src/cmd" />
       <root url="file://C:/Go/src/math" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/errors" />
-      <root url="file://$USER_HOME$/go/src/golang.org" />
       <root url="file://C:/Go/src/hash" />
       <root url="file://C:/Go/src/bufio" />
       <root url="file://C:/Go/src/internal" />
@@ -40,8 +37,13 @@
       <root url="file://C:/Go/src/go" />
       <root url="file://C:/Go/src/bytes" />
       <root url="file://C:/Go/src/time" />
-      <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/plugin" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/go/src/google.golang.org" />
+      <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/fmt" />
       <root url="file://C:/Go/src/mime" />
       <root url="file://C:/Go/src/context" />
@@ -52,7 +54,6 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://C:/Go/src/image" />
-      <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://C:/Go/src/text" />
       <root url="file://C:/Go/src/net" />
       <root url="file://C:/Go/src/io" />
@@ -64,13 +65,11 @@
       <root url="file://C:/Go/src/archive" />
       <root url="file://C:/Go/src/crypto" />
       <root url="file://C:/Go/src/sync" />
-      <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://C:/Go/src/strconv" />
       <root url="file://C:/Go/src/cmd" />
       <root url="file://C:/Go/src/math" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/errors" />
-      <root url="file://$USER_HOME$/go/src/golang.org" />
       <root url="file://C:/Go/src/hash" />
       <root url="file://C:/Go/src/bufio" />
       <root url="file://C:/Go/src/internal" />
@@ -90,8 +89,13 @@
       <root url="file://C:/Go/src/go" />
       <root url="file://C:/Go/src/bytes" />
       <root url="file://C:/Go/src/time" />
-      <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/plugin" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/go/src/google.golang.org" />
+      <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/fmt" />
       <root url="file://C:/Go/src/mime" />
       <root url="file://C:/Go/src/context" />
